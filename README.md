@@ -7,7 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Acerca del desarrollo: pendiente parte visual, está listo parte del backend, faltan las rutas con validación de usuario
+## Acerca del desarrollo: 
+pendiente parte visual, está listo parte del backend, faltan las rutas con validación de usuario
+se generó los datos de prueba usando los seeders del framework, se clonó el repositorio
+hubo conflicto con github al intentar subir repositorio
 ## Acerca de Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
